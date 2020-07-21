@@ -6,6 +6,8 @@ The goal of this project is to predict the price of gold (GC=F) 7 days advance, 
 
 This project contains a machine learning training and evaluation pipeline `Gold Price (GC=F) Prediction.ipynb` and a web application for running and analysing the deployed machine learning models `ui.py`.
 
+Here's a video on how to use this web app: https://youtu.be/TnMGAhVSZB8
+
 ## Functions
 This web application has the following built-in functionalities:
 
