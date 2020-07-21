@@ -6,6 +6,27 @@ The goal of this project is to predict the price of gold (GC=F) 7 days advance, 
 
 This project contains a machine learning training and evaluation pipeline `Gold Price (GC=F) Prediction.ipynb` and a web application for running and analysing the deployed machine learning models `ui.py`.
 
+## Functions
+This web application has the following built-in functionalities:
+
+#### Plotting Time Series Data across Multiple Features
+
+<img src="https://github.com/ArnoldYSYeung/future_alchemy/blob/master/images/plotting.PNG" width="400"/>
+
+#### Polynomial Fitting of Closing Prices
+
+<img src="https://github.com/ArnoldYSYeung/future_alchemy/blob/master/images/polynomial_fitting.PNG" width="400"/>
+
+#### Machine Learning Model Prediction
+
+<img src="https://github.com/ArnoldYSYeung/future_alchemy/blob/master/images/predicting.PNG" width="400"/>
+
+#### Explaining Prediction of Machine Learning Model 
+(only for Lasso and Ridge currently)
+
+<img src="https://github.com/ArnoldYSYeung/future_alchemy/blob/master/images/explaining.PNG" width="400"/>
+
+
 ## Setup
 The following packages are required to run the Jupyter notebook:
 - Scikit-Learn 0.22.2 (files in `./models/` are saved with this version)
