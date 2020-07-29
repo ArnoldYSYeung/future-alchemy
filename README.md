@@ -43,4 +43,4 @@ To run `ui.py` for the web application, <a href="https://www.streamlit.io/">Stre
 ## Run
 The machine learning training and evaluation pipeline is in `Gold Price (GC=F) Prediction.ipynb`. This pipeline file will generate DataFrame files for the web application.
 
-To run the web application `ui.py`, after installing Streamlit, go to the main directory and run `streamlight run ui.py`.  This will open the web application in your `localhost`.
+To run the web application `ui.py`, after installing Streamlit, go to the main directory and run `streamlit run ui.py`.  This will open the web application in your `localhost`.
